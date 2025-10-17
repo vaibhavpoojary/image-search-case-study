@@ -1,0 +1,7 @@
+ftfy
+regex
+tqdm
+pandas
+Pillow
+matplotlib
+# CLIP: install via pip install git+https://github.com/openai/CLIP.git
